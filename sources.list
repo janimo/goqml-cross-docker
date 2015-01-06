@@ -1,0 +1,6 @@
+deb [arch=amd64] http://archive.ubuntu.com/ubuntu/ utopic main universe
+deb [arch=amd64] http://archive.ubuntu.com/ubuntu/ utopic-updates main universe
+deb [arch=amd64] http://archive.ubuntu.com/ubuntu/ utopic-security main universe
+deb [arch=armhf] http://ports.ubuntu.com/ubuntu-ports utopic main universe
+deb [arch=armhf] http://ports.ubuntu.com/ubuntu-ports utopic-updates main universe
+deb [arch=armhf] http://ports.ubuntu.com/ubuntu-ports utopic-security main universe
